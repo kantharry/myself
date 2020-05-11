@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+}
+h1 {padding-top: 80px;
+  margin: 0 auto 0 auto;
+  width: auto;
+}
+h3{margin:0;}
+
+.div1 {
+  background-color: #74d4c0;
+}
+
+.div2 {
+  background-color: #00909e;
+  width: 100%;
+  height: 200px;
+}
+
+.div3 {
+  background-color: #f6d743;
+  width: 100%;
+  height: 200px;
+}
+
+.cloud_bottom{position:absolute;
+right:800px; }
+
+.cloud_top{position:absolute;
+right:400px;
+top: 30px;}

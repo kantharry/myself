@@ -1,13 +1,15 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: cursive;
+  font-family: 'Handlee', cursive;
+
 }
 h1 {padding-top: 80px;
   margin: 0 auto 0 auto;
-  width: auto;
+  width: 20%;
 }
-h3{margin:0;}
+h2{margin:0;
+font-family: 'Dancing Script', cursive;}
 
 .div1 {
   background-color: #74d4c0;

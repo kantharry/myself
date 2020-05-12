@@ -20,7 +20,7 @@ font-family: 'Montserrat', sans-serif;}
   background-color: #06623b;
 }
 
-.middle-container {
+.middle-container {text-align: left;
   background-color: #d63447;
 
 }
@@ -31,7 +31,7 @@ text-align: right;
 padding-right: 30px;
 }
 .contact-me{text-align:left;
-  padding-left: 250px;
+  padding-left: 200px;
   padding-bottom: 10px;
   padding-top: 10px;
   background-color: #dd7631}
@@ -45,7 +45,8 @@ right:400px;
 top: 30px;}
 .footer-link{color: #11999E}
 
-.profile{width: 50%;
+.profile{padding-left: 50px;
+  width: 50%;
 padding-top: 70px;}
 
 .skills{position:relative;
